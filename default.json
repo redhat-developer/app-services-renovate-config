@@ -21,7 +21,7 @@
       "groupName": "Shared components packages"
     },
     {
-      "matchPackageNames": ["react", "react-dom],
+      "matchPackageNames": ["react", "react-dom"],
       "groupName": "React Core",
       "allowedVersions": "17.0.1"
     }
