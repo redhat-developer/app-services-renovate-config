@@ -28,7 +28,7 @@
       "allowedVersions": "17.0.1"
     },
     {
-      "matchPackagePatterns": ["^@redhat-cloud-services],
+      "matchPackagePatterns": ["^@redhat-cloud-services"],
       "groupName": "Red Hat Cloud Services packages",
       "automerge": false
     }
