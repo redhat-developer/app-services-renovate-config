@@ -15,12 +15,12 @@
     {
       "matchPackagePatterns": ["^@rhoas"],
       "groupName": "RHOAS SDK packages",
-      "automerge": false,
+      "automerge": false
     },
     {
       "matchPackagePatterns": ["^@bf2"],
       "groupName": "Shared components packages",
-      "automerge": false,
+      "automerge": false
     },
     {
       "matchPackageNames": ["react", "react-dom"],
