@@ -38,7 +38,7 @@
     {
       "matchPackagePatterns": ["^@redhat-cloud-services"],
       "groupName": "Red Hat Cloud Services packages",
-      "automerge": false
+      "automerge": true
     }
   ]
 }
