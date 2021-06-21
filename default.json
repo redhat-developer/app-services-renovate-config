@@ -20,7 +20,7 @@
     {
       "matchPackagenames": ["@bf2/ui-shared"],
       "groupName": "Shared components packages",
-      "automerge": true.
+      "automerge": true,
       "version": "0.2.2"
     },
     {
