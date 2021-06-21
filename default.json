@@ -13,6 +13,11 @@
   },
   "packageRules": [
     {
+      "matchPackagePatterns": ["^@patternfly"],
+      "groupName": "Patternfly",
+      "automerge": false
+    },
+    {
       "matchPackagePatterns": ["^@rhoas"],
       "groupName": "RHOAS SDK packages",
       "automerge": false
