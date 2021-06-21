@@ -26,6 +26,11 @@
       "matchPackageNames": ["react", "react-dom", "react-test-renderer"],
       "groupName": "React Core",
       "allowedVersions": "17.0.1"
+    },
+    {
+      "matchPackagePatterns": ["^@redhat-cloud-services],
+      "groupName": "Red Hat Cloud Services packages",
+      "automerge": false
     }
   ]
 }
