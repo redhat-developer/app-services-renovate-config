@@ -12,6 +12,11 @@
     "automerge": false
   },
   "packageRules": [
+     {
+      "matchPackageNames": ["github.com/redhat-developer/app-services-sdk-go"],
+      "groupName": "GO SDK",
+      "automerge": false
+    },
     {
       "matchPackagePatterns": ["^@patternfly"],
       "groupName": "Patternfly",
