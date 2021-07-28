@@ -12,6 +12,11 @@
     "automerge": false
   },
   "packageRules": [
+     {
+      "matchPackageNames": ["github.com/redhat-developer/app-services-sdk-go"],
+      "groupName": "RHOAS Golang SDK",
+      "automerge": false
+    },
     {
       "matchPackagePatterns": ["^@patternfly"],
       "groupName": "Patternfly",
@@ -19,7 +24,7 @@
     },
     {
       "matchPackagePatterns": ["^@rhoas"],
-      "groupName": "RHOAS SDK packages",
+      "groupName": "RHOAS JS SDK packages",
       "automerge": false
     },
     {
