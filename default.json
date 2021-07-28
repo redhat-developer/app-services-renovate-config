@@ -24,7 +24,7 @@
     },
     {
       "matchPackagePatterns": ["^@rhoas"],
-      "groupName": "RHOAS SDK packages",
+      "groupName": "RHOAS JS SDK packages",
       "automerge": false
     },
     {
