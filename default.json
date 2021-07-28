@@ -14,7 +14,7 @@
   "packageRules": [
      {
       "matchPackageNames": ["github.com/redhat-developer/app-services-sdk-go"],
-      "groupName": "GO SDK",
+      "groupName": "RHOAS Golang SDK",
       "automerge": false
     },
     {
