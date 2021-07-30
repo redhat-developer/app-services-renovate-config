@@ -36,7 +36,7 @@
     {
       "matchPackageNames": ["react", "react-dom", "react-test-renderer"],
       "groupName": "React Core",
-      "allowedVersions": "17.0.1",
+      "allowedVersions": "17.0.2",
       "automerge": true
     },
     {
