@@ -11,6 +11,7 @@
   "major": {
     "automerge": false
   },
+  "transitiveRemediation": true,
   "packageRules": [
      {
       "matchPackageNames": ["github.com/redhat-developer/app-services-sdk-go"],
