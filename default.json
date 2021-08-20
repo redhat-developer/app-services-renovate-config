@@ -19,6 +19,18 @@
       "automerge": false
     },
     {
+      "matchPackageNames": ["@patternfly/react-core"],
+      "groupName": "Patternfly - React Core",
+      "allowedVersions": "4.135.0",
+      "automerge": true
+    },
+    {
+      "matchPackageNames": ["@patternfly/react-table"],
+      "groupName": "Patternfly - React Core",
+      "allowedVersions": "4.29.0",
+      "automerge": true
+    },
+    {
       "matchPackagePatterns": ["^@patternfly"],
       "groupName": "Patternfly",
       "automerge": false
