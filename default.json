@@ -43,7 +43,7 @@
     {
       "matchPackageNames": ["react-router-dom"],
       "groupName": "React Router Dom",
-      "allowedVersions": "5.2.0",
+      "allowedVersions": "5.2.1",
       "automerge": true
     },
     {
