@@ -21,19 +21,26 @@
     {
       "matchPackageNames": ["@patternfly/react-core"],
       "groupName": "Patternfly - React Core",
-      "allowedVersions": "4.135.0",
+      "allowedVersions": "4.152.4",
       "automerge": true
     },
     {
       "matchPackageNames": ["@patternfly/react-table"],
-      "groupName": "Patternfly - React Core",
-      "allowedVersions": "4.29.0",
+      "groupName": "Patternfly - React Table",
+      "allowedVersions": "4.29.58",
       "automerge": true
     },
     {
+      "matchPackageNames": ["@patternfly/react-icons"],
+      "groupName": "Patternfly - React Icons",
+      "allowedVersions": "4.11.14",
+      "automerge": true
+    },      
+    {
       "matchPackagePatterns": ["^@patternfly"],
       "groupName": "Patternfly",
-      "automerge": false
+      "automerge": true,
+      "allowedVersions": "4.132.2"
     },
     {
       "matchPackagePatterns": ["^@rhoas"],
