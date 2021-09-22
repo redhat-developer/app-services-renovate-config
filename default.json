@@ -20,19 +20,19 @@
     },
     {
       "matchPackageNames": ["@patternfly/react-core"],
-      "groupName": "Patternfly - React Core",
+      "groupName": "Patternfly - React",
       "allowedVersions": "4.152.4",
       "automerge": true
     },
     {
       "matchPackageNames": ["@patternfly/react-table"],
-      "groupName": "Patternfly - React Table",
+      "groupName": "Patternfly - React",
       "allowedVersions": "4.29.58",
       "automerge": true
     },
     {
       "matchPackageNames": ["@patternfly/react-icons"],
-      "groupName": "Patternfly - React Icons",
+      "groupName": "Patternfly - React",
       "allowedVersions": "4.11.14",
       "automerge": true
     },      
