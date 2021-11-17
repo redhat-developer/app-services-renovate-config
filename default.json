@@ -45,7 +45,7 @@
     {
       "matchPackagePatterns": ["^@rhoas"],
       "groupName": "RHOAS JS SDK packages",
-      "automerge": false
+      "automerge": true
     },
     {
       "matchPackagenames": ["@bf2/ui-shared"],
