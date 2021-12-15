@@ -21,26 +21,26 @@
     {
       "matchPackageNames": ["@patternfly/react-core"],
       "groupName": "Patternfly - React",
-      "allowedVersions": "4.152.4",
+      "allowedVersions": "4.168.8",
       "automerge": true
     },
     {
       "matchPackageNames": ["@patternfly/react-table"],
       "groupName": "Patternfly - React",
-      "allowedVersions": "4.29.58",
+      "allowedVersions": "4.37.8",
       "automerge": true
     },
     {
       "matchPackageNames": ["@patternfly/react-icons"],
       "groupName": "Patternfly - React",
-      "allowedVersions": "4.11.14",
+      "allowedVersions": "4.19.8",
       "automerge": true
     },      
     {
       "matchPackagePatterns": ["^@patternfly"],
       "groupName": "Patternfly",
       "automerge": true,
-      "allowedVersions": "4.132.2"
+      "allowedVersions": "4.151.4"
     },
     {
       "matchPackagePatterns": ["^@rhoas"],
