@@ -19,30 +19,6 @@
       "automerge": false
     },
     {
-      "matchPackageNames": ["@patternfly/react-core"],
-      "groupName": "Patternfly - React",
-      "allowedVersions": "4.181.1",
-      "automerge": true
-    },
-    {
-      "matchPackageNames": ["@patternfly/react-table"],
-      "groupName": "Patternfly - React",
-      "allowedVersions": "4.50.1",
-      "automerge": true
-    },
-    {
-      "matchPackageNames": ["@patternfly/react-icons"],
-      "groupName": "Patternfly - React",
-      "allowedVersions": "4.32.1",
-      "automerge": true
-    },      
-    {
-      "matchPackagePatterns": ["^@patternfly"],
-      "groupName": "Patternfly",
-      "automerge": true,
-      "allowedVersions": "4.164.2"
-    },
-    {
       "matchPackagePatterns": ["^@rhoas"],
       "groupName": "RHOAS JS SDK packages",
       "automerge": true
