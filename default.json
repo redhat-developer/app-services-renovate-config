@@ -14,7 +14,7 @@
   "transitiveRemediation": true,
   "packageRules": [
      {
-      "matchPackagePatterns": ["@github.com/redhat-developer/app-services-sdk-go"],
+      "matchPackagePrefixes": ["github.com/redhat-developer/app-services-sdk-go"],
       "groupName": "RHOAS Golang SDK",
       "automerge": false
     },
